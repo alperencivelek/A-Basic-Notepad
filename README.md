@@ -1,2 +1,2 @@
 # A-Basic-Notepad
-Sadece spellcheck biraz anlamsız
+Spellchecking is meaningless but its ok
